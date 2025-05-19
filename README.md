@@ -10,7 +10,7 @@ I'm currently pursuing my degree in **BSIT** at **Central Luzon State University
 
 ## My Projects
 Here are some of my notable projects:
-1. [Student Management](https://github.com/Norezy/StudentManagement) - My First PHP System created for a requirement for one of my subjects
+1. [Student Management](https://github.com/Norezy/StudentManagement) - My first PHP system, created to fulfill a requirement for one of my subjects.
 
 ## What I'm Up To
 - 🔭 Currently working on: On a New PHP System

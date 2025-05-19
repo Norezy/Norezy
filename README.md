@@ -8,11 +8,11 @@ I'm currently pursuing my degree in **BSIT** at **Central Luzon State University
 ### Languages I Know:
 [![Code, Languages](https://skillicons.dev/icons?i=html,css,php,java,c,mysql)](https://skillicons.dev)
 
-## 🚀 My Projects
+## My Projects
 
 Here are some of my notable projects:
 
-### 🎓 [Student Management System](https://github.com/Norezy/StudentManagement)  
+### [Student Management System](https://github.com/Norezy/StudentManagement)  
 *My first PHP system, created to fulfill a requirement for one of my subjects.*  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-4479A1?style=flat-square&logo=html&logoColor=white)
 ## What I'm Up To

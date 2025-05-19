@@ -15,11 +15,12 @@ Here are some of my notable projects:
 ## What I'm Up To
 ![PHP Project](https://img.shields.io/badge/Working_On-New_PHP_System-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
 
-![Listening To](https://img.shields.io/badge/Listening%20To-777BB4?style=for-the-badge&logo=spotify&logoColor=white)[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jmvci8p9jmi8kaogxh583vyk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://img.shields.io/badge/Listening%20To-777BB4?style=for-the-badge&logo=spotify&logoColor=white" alt="Listening To" width="150" height="40">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jmvci8p9jmi8kaogxh583vyk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-
+![Listening To](https://img.shields.io/badge/Listening%20To-777BB4?style=for-the-badge&logo=spotify&logoColor=white)
 ![Status](https://img.shields.io/badge/Currently-Online-brightgreen)
+
 
 
 

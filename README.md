@@ -2,6 +2,7 @@
 # Hi there, I'm Norbs! 👋
 > **University Student | Aspiring Developer | Always Learning**
 
+## About Me
 I'm currently pursuing my degree in **BSIT** at **Central Luzon State University**. Passionate about programming and constantly challenging myself to learn new things.
 
 ### Languages I Know:

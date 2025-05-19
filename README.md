@@ -18,7 +18,7 @@ Here are some of my notable projects:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jmvci8p9jmi8kaogxh583vyk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-![Status](https://img.shields.io/badge/Currently-Online-brightgreen)
+
 
 
 

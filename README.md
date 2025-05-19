@@ -20,14 +20,7 @@ Here are some of my notable projects:
 - 📫 How to reach me: [Your Email or Social Media] -->
 
 ![Status](https://img.shields.io/badge/Currently-Online-brightgreen)
-[![Spotify]]
-[![Listening]((https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)https://img.shields.io/badge/Listening%20to-Not%20Playing%20Currently-1DB954?style=flat-square)](https://open.spotify.com/user/yourusername)  
-
-[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)  
-[![Coding](https://img.shields.io/badge/Coding%20in-JavaScript-yellow?style=flat-square)](https://github.com/)  
-
-[![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)]()  
-[![Time](https://img.shields.io/badge/Current%20Time-Not%20Available-lightgrey?style=flat-square)]()
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jmvci8p9jmi8kaogxh583vyk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 

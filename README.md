@@ -19,7 +19,9 @@ Here are some of my notable projects:
 - 💬 Ask me about: [Topics you can discuss]
 - 📫 How to reach me: [Your Email or Social Media] -->
 
-![Status](https://img.shields.io/badge/Currently-Online-brightgreen)
+[![Status](https://img.shields.io/badge/Currently-Online-brightgreen)]
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jmvci8p9jmi8kaogxh583vyk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 

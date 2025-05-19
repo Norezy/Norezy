@@ -21,6 +21,8 @@ Here are some of my notable projects:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jmvci8p9jmi8kaogxh583vyk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norezy&hide=contribs,prs)
+
 [![Status](https://img.shields.io/badge/Currently-Online-brightgreen)]
 
 

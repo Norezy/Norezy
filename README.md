@@ -11,7 +11,13 @@ I'm currently pursuing my degree in **BSIT** at **Central Luzon State University
 ## My Projects
 Here are some of my notable projects:
 1. [Student Management](https://github.com/Norezy/StudentManagement) - My first PHP system, created to fulfill a requirement for one of my subjects.
+## 🚀 My Projects
 
+Here are some of my notable projects:
+
+### 🎓 [Student Management System](https://github.com/Norezy/StudentManagement)  
+*My first PHP system, created to fulfill a requirement for one of my subjects.*  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ## What I'm Up To
 <p align="center">
 <img src="https://img.shields.io/badge/Working_On-New_PHP_System-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000"> <img src="https://img.shields.io/badge/Currently-Online-brightgreen?style=for-the-badge&labelColor=000000"> <img src="https://img.shields.io/badge/AFK-Gaming%20Break-orange?style=for-the-badge&logo=steam&logoColor=white"> <img src="https://img.shields.io/badge/Mood-Vibing-blueviolet?style=for-the-badge">

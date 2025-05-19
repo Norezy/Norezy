@@ -22,6 +22,8 @@ Here are some of my notable projects:
   </a>
 </p>
 
+> "Keep learning. Keep building. Keep vibing."
+
 
 
 

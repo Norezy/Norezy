@@ -8,7 +8,7 @@
 I'm currently pursuing my degree in **BSIT** at **Central Luzon State University**. Passionate about programming and constantly challenging myself to learn new things.
 
 ### Languages I Know:
-[![Code, Languages](https://skillicons.dev/icons?i=html,css,php,java,c,mysql)](https://skillicons.dev)
+[![Code Languages](https://skillicons.dev/icons?i=html,css,php,java,c,mysql)](https://skillicons.dev)
 
 <br/>
 

@@ -13,17 +13,13 @@ Here are some of my notable projects:
 1. [Student Management](https://github.com/Norezy/StudentManagement) - My first PHP system, created to fulfill a requirement for one of my subjects.
 
 ## What I'm Up To
-- Currently working on: **On a New PHP System**
-<!-- - 🌱 Currently learning: [What you're learning]
-- 👯 Looking to collaborate on: [Types of projects]
-- 💬 Ask me about: [Topics you can discuss]
-- 📫 How to reach me: [Your Email or Social Media] -->
+[![Project](https://img.shields.io/badge/🚀_Working_On-Python_Bot-9cf?style=for-the-badge&logo=python&labelColor=black&color=20beff)](https://github.com/your-repo)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jmvci8p9jmi8kaogxh583vyk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norezy&hide=contribs,prs)
 
-[![Status](https://img.shields.io/badge/Currently-Online-brightgreen)]
+
+![Status](https://img.shields.io/badge/Currently-Online-brightgreen)
 
 
 

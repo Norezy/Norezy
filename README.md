@@ -14,7 +14,7 @@ Here are some of my notable projects:
 
 ## What I'm Up To
 <p align="center">
-![PHP Project](https://img.shields.io/badge/Working_On-New_PHP_System-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000) ![Status](https://img.shields.io/badge/Currently-Online-brightgreen?style=for-the-badge&labelColor=000000) ![Gaming ](https://img.shields.io/badge/AFK-Gaming%20Break-orange?style=for-the-badge&logo=steam&logoColor=white) ![Mood: Vibing](https://img.shields.io/badge/Mood-Vibing-blueviolet?style=for-the-badge)
+<img src="https://img.shields.io/badge/Working_On-New_PHP_System-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000"> <img src="https://img.shields.io/badge/Currently-Online-brightgreen?style=for-the-badge&labelColor=000000"> <img src="https://img.shields.io/badge/AFK-Gaming%20Break-orange?style=for-the-badge&logo=steam&logoColor=white"> <img src="https://img.shields.io/badge/Mood-Vibing-blueviolet?style=for-the-badge">
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">

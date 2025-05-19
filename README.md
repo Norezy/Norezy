@@ -14,7 +14,7 @@ Here are some of my notable projects:
 
 ## What I'm Up To
 [![PHP Project](https://img.shields.io/badge/PHP_Project_CRM-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/yourusername/your-repo)
-[![PHP Project](https://img.shields.io/badge/🔥_PHP_Project-Laravel_CRM-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/yourusername/your-repo)
+[![PHP Project](https://img.shields.io/badge/Working On-New PHP System-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/yourusername/your-repo)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jmvci8p9jmi8kaogxh583vyk&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 

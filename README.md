@@ -20,6 +20,7 @@ Here are some of my notable projects:
 *My first PHP system, created to fulfill a requirement for one of my subjects.*  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-4479A1?style=flat-square&logo=html&logoColor=white)
 
+<br/>
 
 ## What I'm Up To
 <p align="center">

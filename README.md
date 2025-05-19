@@ -19,14 +19,7 @@ Here are some of my notable projects:
 - 💬 Ask me about: [Topics you can discuss]
 - 📫 How to reach me: [Your Email or Social Media] -->
 
-## 📊 GitHub Stats
-[You can add GitHub stats widgets here later when you have more activity]
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your Twitter URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 

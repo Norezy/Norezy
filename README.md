@@ -3,8 +3,10 @@
 > University Student | Aspiring Developer | Always Learning
 > 
 ## About Me
-I'm currently pursuing my degree in BSIT at Central Luzon State University. Passionate about programming and constantly challenging myself to learn new things.
+I'm currently pursuing my degree in **BSIT** at **Central Luzon State University**. Passionate about programming and constantly challenging myself to learn new things.
 
+### Languages I Know:
+[![Code, Languages](https://skillicons.dev/icons?i=html,css,php,java,c)](https://skillicons.dev)
 <!--
 **Norezy/Norezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

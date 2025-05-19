@@ -2,6 +2,7 @@
 # Hi there, I'm Norbs! 👋
 > **University Student | Aspiring Developer | Always Learning**
 
+<br/>
 
 ## About Me
 I'm currently pursuing my degree in **BSIT** at **Central Luzon State University**. Passionate about programming and constantly challenging myself to learn new things.
@@ -9,6 +10,7 @@ I'm currently pursuing my degree in **BSIT** at **Central Luzon State University
 ### Languages I Know:
 [![Code, Languages](https://skillicons.dev/icons?i=html,css,php,java,c,mysql)](https://skillicons.dev)
 
+<br/>
 
 ## My Projects
 

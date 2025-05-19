@@ -1,5 +1,5 @@
 ![Github Banner](https://github.com/user-attachments/assets/2ab9f023-43b1-4d27-b8c8-9a1a5e55a98d)
-## Hi there, I'm Norbs! 👋
+# Hi there, I'm Norbs! 👋
 > University Student | Aspiring Developer | Always Learning
 
 <!--

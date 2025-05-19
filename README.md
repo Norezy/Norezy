@@ -1,5 +1,5 @@
 ![Github Banner](https://github.com/user-attachments/assets/2ab9f023-43b1-4d27-b8c8-9a1a5e55a98d)
-## Hi I'm Norbs 👋
+  ## Hi I'm Norbs 👋
 
 <!--
 **Norezy/Norezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

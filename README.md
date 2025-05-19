@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/2eafeb11-de75-44e1-b5ea-60a6ce3db7dd)
+![Github Banner](https://github.com/user-attachments/assets/24004489-ba80-4b41-b6f2-e3b2ab273d12)
 ## Hi I'm Norbs 👋
 
 <!--
